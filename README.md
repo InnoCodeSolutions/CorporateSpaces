@@ -61,9 +61,6 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 | **01** | Cancelar Reservas | US04 | Alta |
 
 
-## Gráfico de Burndown
-![Gráfico de Burndown](/docs/burndown_spt1.png)
-
 <h2>Tarefas</h2>
 <p>O grupo optou pela organização das tarefas fazendo uso de épicos, User Story, tarefas e subtarefas.</p>
 <p>Nesta Sprint 1, o foco do grupo foi desenvolvimento do backlog e disbuição de tarefas com base em Adminstração e Configuração do Sistema.</p>
@@ -95,32 +92,26 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 | **02** | Gerenciamento de Usuários | US06 | Alta |
 | **02** | Cadastro de Espaços | US07 | Alta |
 | **02** | Exclusão de Espaços | US08 | Alta |
-| **02** | Quadro de Faturamento | US09 | Alta |
 
-
-## Gráfico de Burndown
-![Gráfico de Burndown](/docs/burndown_spt2.png)
 
 <h2>Tarefas</h2>
 <p>Optando pela entrega do protótipo da aplicação Administração e Configurações do Sistema </p>
-<p> Na Sprint 2, o grupo direcionou seus esforços para o desenvolvimento das telas de ... .</p>
+<p> Na Sprint 2, o grupo direcionou seus esforços para o desenvolvimento das telas do administrador.</p>
 
 | Tipo       | Descrição |
 | :--:       | :--------:| 
-| Épico      | Gerenciamento de Espaços e Usuários |
-| User Story | US05 - Login de Administrador |
-| Subtarefa  | Criar protótipo de página de login com validação simulada e diferenciação visual de permissões |
+| Épico      | Gerenciamento de Espaços e Usuários;|
+| User Story | US05 - Login de Administrador; |
+| Subtarefa  | Criar protótipo de página de login com validação simulada e diferenciação visual de permissões; |
 | User Story | US06 - Gerenciamento de Usuários |
-| Subtarefa  | Criar protótipo de painel de gerenciamento de usuários, com tabelas e filtros fictícios. |
-| User Story | US07 - Cadastro de Espaços |
-| Subtarefa  | Criar protótipo de formulário para cadastro de espaços, com validação simulada (exemplo: exibir sucesso ao enviar dados fictícios). |
-| User Story | US08 - Exclusão de Espaços |
-| Subtarefa  | Criar protótipo com botão de exclusão em espaços cadastrados, exibindo confirmação e feedback fictício |
-| User Story | US09 - Quadro de Faturamento |
-| Subtarefa  | Criar protótipo de tela para visualização de relatórios com dados simulados, exibindo opções fictícias para exportação. |
+| Subtarefa  | Criar protótipo de painel de gerenciamento de usuários, com tabelas e filtros fictícios; |
+| User Story | US07 - Cadastro de Espaços; |
+| Subtarefa  | Criar protótipo de formulário para cadastro de espaços, com validação simulada (exemplo: exibir sucesso ao enviar dados fictícios); |
+| User Story | US08 - Exclusão de Espaços; |
+| Subtarefa  | Criar protótipo com botão de exclusão em espaços cadastrados, exibindo confirmação e feedback fictício. |
 
 
-[Link para o design no Figma]()
+[Link para o design no Figma](https://www.figma.com/design/M6MAUUP9aNiXsDTWcauxWN/Sistema-de-Reserva-de-Salas-Corporativas?node-id=13-151&t=RqnNTuioncJuXQMI-1)
 </details>
 
 
@@ -137,7 +128,7 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 | **02** | Gerenciamento de Usuários | US06 | Alta |
 | **02** | Cadastro de Espaços | US07 | Alta |
 | **02** | Exclusão de Espaços | US08 | Alta |
-| **02** | Quadro de Faturamento | US09 | Alta |
+
 
 <b>User Story</b>
 
@@ -151,7 +142,6 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 |US06|Como um administrador, quero visualizar e gerenciar usuários e suas reservas, para controlar acessos e resolver problemas relacionados às reservas;|
 |US07|Como um administrador, quero cadastrar novos espaços com informações detalhadas, para garantir que os usuários tenham opções atualizadas para reservas;|
 |US08|Como um administrador, quero excluir espaços que não são mais utilizados, para manter a base de dados limpa e funcional, sem interferir em reservas ativas;|
-|US09|Como um administrador, quero gerar e visualizar relatórios de faturamento por período, para acompanhar o desempenho financeiro.|
 
 
 
