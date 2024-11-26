@@ -55,7 +55,10 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 
 | Sprint | Funcionalidade | Prioridade |
 | :--:   | :-----------:  | :--------: |
-| | |  |
+| **01** | Login de usuário| US01 | Alta |
+| **01** | Consulta de Espaços Disponíveis   | US02 | Alta |
+| **01** | Histórico de Reservas | US03 | Alta |
+| **01** | Cancelar Reservas | US04 | Alta |
 
 
 ## Gráfico de Burndown
@@ -67,9 +70,16 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 
 | Tipo       | Descrição |
 | :--:       | :--------:| 
-| Épico      |  |
-| User Story |  |
-| Subtarefa  |      |
+| Épico      | 	Gerenciamento de Reservas |
+| User Story | US01 - Login de Usuário |
+| Subtarefa  | Criar protótipo de tela de login, com campos para mail e senha, e mensagem de erro simulada para credenciais inválidas. |
+| User Story | US02 - Consulta de Espaços Disponíveis |
+| Subtarefa  | Criar protótipo de tela de consulta de espaços, com uma lista simulada de espaços e filtros fictícios (data, tipo, etc.). |
+| User Story | US03 - Histórico de Reservas |
+| Subtarefa  | Criar protótipo de tela para exibir reservas passadas, com filtros simulados por data e espaço. |
+| User Story | US04 - Cancelar Reservas |
+| Subtarefa  | Criar protótipo com funcionalidade de cancelamento de reserva, exibindo uma confirmação simulada antes da ação ser realizada e mensagem de sucesso após cancelamento.|
+
 
 
 </details>
@@ -93,9 +103,17 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 
 | Tipo       | Descrição |
 | :--:       | :--------:| 
-| Épico      |  |
-| User Story |  |
-| Subtarefa  |      |
+| Épico      | Gerenciamento de Espaços e Usuários |
+| User Story | US05 - Login de Administrador |
+| Subtarefa  | Criar protótipo de página de login com validação simulada e diferenciação visual de permissões |
+| User Story | US06 - Gerenciamento de Usuários |
+| Subtarefa  | Criar protótipo de painel de gerenciamento de usuários, com tabelas e filtros fictícios. |
+| User Story | US07 - Cadastro de Espaços |
+| Subtarefa  | Criar protótipo de formulário para cadastro de espaços, com validação simulada (exemplo: exibir sucesso ao enviar dados fictícios). |
+| User Story | US08 - Exclusão de Espaços |
+| Subtarefa  | Criar protótipo com botão de exclusão em espaços cadastrados, exibindo confirmação e feedback fictício |
+| User Story | US09 - Quadro de Faturamento |
+| Subtarefa  | Criar protótipo de tela para visualização de relatórios com dados simulados, exibindo opções fictícias para exportação. |
 [Link para o design no Figma]()
 </details>
 
@@ -105,28 +123,29 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 
 | Sprint | Funcionalidade | User Story | Prioridade |
 | :--:   | :-----------:  | :--------: | :--------: |
-| **01** | Desenvolvimeto do Backlog| US01 | Alta |
-| **02** | Tela do figma de   | US02 | Alta |
-| **01** | Tela do figma de | US03 | Alta |
-| **01** | Tela do figma de | US04 | Alta |
-| **01** | Tela do figma de | US05 | Alta |
-| **01** | Tela do figma de | US06 | Alta |
-| **01** | Tela do figma de | US07 | Alta |
+| **01** | Login de usuário| US01 | Alta |
+| **01** | Consulta de Espaços Disponíveis   | US02 | Alta |
+| **01** | Histórico de Reservas | US03 | Alta |
+| **01** | Cancelar Reservas | US04 | Alta |
+| **02** | Login de Administrador | US05 | Alta |
+| **02** | Gerenciamento de Usuários | US06 | Alta |
+| **02** | Cadastro de Espaços | US07 | Alta |
+| **02** | Exclusão de Espaços | US08 | Alta |
+| **02** | Quadro de Faturamento | US09 | Alta |
 
 <b>User Story</b>
 
 | User Story | Descrição |
 | :--: | :-----------:  |
-|US01|.|
-|US02|.|
-|US03|.|
-|US04|.|
-|US05|.|
-|US06|.|
-|US07|.|
-|US08|.|
-|US09|.|
-|US10|.|
+|US01|Como um usuário, quero acessar minha conta com segurança, para visualizar minhas reservas e usar as funcionalidades personalizadas do sistema;|
+|US02|Como um usuário, quero visualizar os espaços disponíveis com filtros, para planejar e realizar minhas reservas de maneira eficiente;|
+|US03|Como um usuário, quero visualizar um histórico das reservas passadas com filtros opcionais, para consultar informações de reservas concluídas;|
+|US04|Como um usuário, quero cancelar uma reserva ativa, para liberar o espaço para outros usuários e gerenciar meus compromissos;|
+|US05|Como um administrador, quero acessar minha conta com permissões diferenciadas, para gerenciar os espaços e usuários do sistema;|
+|US06|Como um administrador, quero visualizar e gerenciar usuários e suas reservas, para controlar acessos e resolver problemas relacionados às reservas;|
+|US07|Como um administrador, quero cadastrar novos espaços com informações detalhadas, para garantir que os usuários tenham opções atualizadas para reservas;|
+|US08|Como um administrador, quero excluir espaços que não são mais utilizados, para manter a base de dados limpa e funcional, sem interferir em reservas ativas;|
+|US09|Como um administrador, quero gerar e visualizar relatórios de faturamento por período, para acompanhar o desempenho financeiro.|
 
 
 
