@@ -91,7 +91,11 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 
 | Sprint | Funcionalidade | Prioridade |
 | :--:   | :-----------:  | :--------: |
-| |  |  |
+| **02** | Login de Administrador | US05 | Alta |
+| **02** | Gerenciamento de Usuários | US06 | Alta |
+| **02** | Cadastro de Espaços | US07 | Alta |
+| **02** | Exclusão de Espaços | US08 | Alta |
+| **02** | Quadro de Faturamento | US09 | Alta |
 
 
 ## Gráfico de Burndown
@@ -114,6 +118,8 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 | Subtarefa  | Criar protótipo com botão de exclusão em espaços cadastrados, exibindo confirmação e feedback fictício |
 | User Story | US09 - Quadro de Faturamento |
 | Subtarefa  | Criar protótipo de tela para visualização de relatórios com dados simulados, exibindo opções fictícias para exportação. |
+
+
 [Link para o design no Figma]()
 </details>
 
