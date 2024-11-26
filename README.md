@@ -39,6 +39,8 @@ Este aplicativo tem como objetivo um protótipo funcional para um Sistema de Res
 
 
 <span id="entregas"></span>
+
+
 <h1 align="center">Entregas</h1>
 O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 entregas com sprints.
 
@@ -112,10 +114,14 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 2 ent
 
 
 [Link para o design no Figma](https://www.figma.com/design/M6MAUUP9aNiXsDTWcauxWN/Sistema-de-Reserva-de-Salas-Corporativas?node-id=13-151&t=RqnNTuioncJuXQMI-1)
+
 </details>
 
 
 <span id="backlog"></span>
+
+
+
 <h1 align="center">Backlog do Projeto</h1>
 
 | Sprint | Funcionalidade | User Story | Prioridade |
